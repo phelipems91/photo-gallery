@@ -1,0 +1,22 @@
+{
+    "image1": {
+        "src": "images/IMG1.jpg",
+        "timer": "4000"
+    },
+    "image2": {
+        "src": "images/IMG2.jpg",
+        "timer": "5000"
+    },
+    "image3": {
+        "src": "images/IMG3.jpg",
+        "timer": "6000"
+    },
+    "image4": {
+        "src": "images/IMG4.jpg",
+        "timer": "4000"
+    },
+    "image5": {
+        "src": "images/IMG5.jpg",
+        "timer": "2000"
+    }
+}
